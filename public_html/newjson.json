@@ -1,0 +1,42 @@
+{
+	"name": "flare",
+	"children": [{
+		"name": "Satisfied",
+		"children": [{
+			"name": "Satisfied1",
+			"size":142
+		}, {
+			"name": "Satisfied2",
+			"size":150
+		}, {
+			"name": "Satisfied3",
+			"size":200
+		}]
+	},{
+            "name" :"Uncertain",
+            "children": [{
+			"name": "uncertain1",
+			"size":142
+		}, {
+			"name": "uncertain2",
+			"size":150
+		}, {
+			"name": "uncertain3",
+			"size":200
+		}]
+        },
+        {
+            "name" :"Discontent",
+            "children": [{
+			"name": "discontent1",
+			"size":142
+		}, {
+			"name": "discontent2",
+			"size":150
+		}, {
+			"name": "discontent3",
+			"size":200
+		}]
+        }
+    ]
+}
